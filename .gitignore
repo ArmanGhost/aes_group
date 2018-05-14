@@ -16,3 +16,10 @@ wp-content/plugins/hello.php
 /readme.html
 /license.txt
 
+# OS and IDE
+.idea
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.project
