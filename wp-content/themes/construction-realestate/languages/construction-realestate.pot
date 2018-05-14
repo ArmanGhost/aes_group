@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Construction Realestate\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: buywptemplates <support@buywptemplates.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:10
+msgid "404 "
+msgstr ""
+
+#: 404.php:10
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:11
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:12
+#: no-results.php:18
+msgid 'Dont worry it happens to the best of us.'
+msgstr ""
+
+#: 404.php:14
+#: no-results.php:20
+msgid 'Back to Home Page'
+msgstr ""
+
+#: 404.php:14
+msgid 'Back to Home Page'
+msgstr ""
+
+#: archive.php:31 archive.php:60 archive.php:91 archive.php:122 archive.php:153 archive.php:182
+#: index.php:28
+#: index.php:53
+#: index.php:80
+#: index.php:106
+#: index.php:130
+#: index.php:157
+#: search.php:28
+#: search.php:54
+#: search.php:82
+#: search.php:110
+#: search.php:138
+#: search.php:164
+#: single.php:49
+#: single.php:106
+#: single.php:165
+#: single.php:224
+#: single.php:283
+#: single.php:340
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:32 archive.php:61 archive.php:92 archive.php:123 archive.php:154 archive.php:183
+#: index.php:29
+#: index.php:54
+#: index.php:81
+#: index.php:107
+#: index.php:131
+#: index.php:158
+#: search.php:29
+#: search.php:55
+#: search.php:83
+#: search.php:111
+#: search.php:139
+#: search.php:165
+#: single.php:46
+#: single.php:103
+#: single.php:162
+#: single.php:221
+#: single.php:280
+#: single.php:337
+msgid 'Next page' 
+msgstr ""
+
+#: archive.php:33 archive.php:62 archive.php:93 archive.php:124 archive.php:155 archive.php:184
+#: index.php:30
+#: index.php:55
+#: index.php:82
+#: index.php:108
+#: index.php:132
+#: index.php:159
+#: search.php:30
+#: search.php:56
+#: search.php:84
+#: search.php:112
+#: search.php:140
+#: search.php:166
+#: single.php:34
+#: single.php:91
+#: single.php:150
+#: single.php:209
+#: single.php:268
+#: single.php:325
+#: page.php:27
+msgid 'Page' 
+msgstr ""
+
+#: footer.php:27
+msgid 'Theme Design & Developed By' 
+msgstr ""
+
+
+#: functions.php:25
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:58 functions.php:68 functions.php:78 functions.php:88 functions.php:97 functions.php:108 functions.php:118
+msgid 'Appears on posts and pages'
+msgstr ""
+
+#: functions.php:67
+msgid 'Posts and Pages Sidebar'
+msgstr ""
+
+#: functions.php:77
+msgid 'Third Column Sidebar'
+msgstr ""
+
+#: functions.php:87
+msgid 'Footer 1'
+msgstr ""
+
+#: functions.php:97
+msgid 'Footer 2'
+msgstr ""
+
+#: functions.php:107
+msgid 'Footer 3'
+msgstr ""
+
+#: functions.php:117
+msgid 'Footer 4'
+msgstr ""
+
+#: header.php:17 header.php:95
+msgid "Menu"
+msgstr ""
+
+#: image.php:35
+#: image.php:71
+#: image.php:108
+#: image.php:145
+#: image.php:175
+#: image.php:221
+#: page.php:23
+#: single.php:34
+#: single.php:89
+#: single.php:145
+#: single.php:201
+#: single.php:226
+#: single.php:315
+msgid "Pages:"
+msgstr ""
+
+#: image.php:40
+#: image.php:76
+#: image.php:113
+#: image.php:150
+#: image.php:188
+#: image.php:216
+msgid "Edit"
+msgstr ""
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:13
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:15
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:9
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr ""
+
+#: single.php:47
+#: single.php:104
+#: single.php:163
+#: single.php:222
+#: single.php:281
+#: single.php:338
+msgid "Next post:"
+msgstr ""
+
+#: single.php:50
+#: single.php:107
+#: single.php:166
+#: single.php:225
+#: single.php:284
+#: single.php:341
+msgid "Previous post:"
+msgstr ""
+
+#: page-template/custom-home-page.php:59
+msgid "Know More"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Social Icon Section"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Add Socail Link here"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Add Google Plus link"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Add Pintrest link"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Add Tumblr link"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Add contact us here"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Enter Street"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Enter City"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Enter Time"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Enter Day"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Enter Phone No 1."
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Enter Phone No 2."
+msgstr ""
+
+
+#: inc/customizer.php:185
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "About Us Section"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Title"
+msgstr ""
+
+
+#: inc/customizer.php:235
+msgid "Select post"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Construction RealestatePro"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Go Pro"
